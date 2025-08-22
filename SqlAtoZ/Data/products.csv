@@ -1,0 +1,21 @@
+product_id, product_name     , category   , price , stock
+         1, Wireless Mouse   , Electronics,  25.00,   100
+         2, Yoga Mat         , Fitness    ,  30.00,    80
+         3, Coffee Mug       , Kitchen    ,  12.50,   200
+         4, Bluetooth Speaker, Electronics,  55.00,    50
+         5, Desk Lamp        , Home       ,  35.00,    60
+         6, Running Shoes    , Fitness    ,  75.00,    30
+         7, Standing Desk    , Home       , 250.00,    15
+         8, Water Bottle     , Kitchen    ,  18.00,   120
+         9, Smart Watch      , Electronics, 120.00,    40
+        10, Resistance Band  , Fitness    ,  15.00,    70
+        11, Travel Pillow    , Home       ,  22.00,    90
+        12, Blender          , Kitchen    ,  60.00,    35
+        13, Laptop Stand     , Electronics,  48.00,    25
+        14, Air Purifier     , Home       , 150.00,    20
+        15, Non-Stick Pan    , Kitchen    ,  28.00,    80
+        16, Yoga Block       , Fitness    ,  10.00,   100
+        17, Monitor          , Electronics, 220.00,    18
+        18, Floor Lamp       , Home       ,  80.00,    24
+        19, Espresso Machine , Kitchen    , 300.00,     8
+        20, Jump Rope        , Fitness    ,   9.00,    60

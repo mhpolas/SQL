@@ -1,0 +1,21 @@
+customer_id, first_name, last_name, email                     , city       , state, signup_date, is_active
+          1, Anna      , Smith    , anna.smith@email.com      , Seattle    , WA   , 2022-01-10 ,         1
+          2, Brian     , Lee      , brian.lee@email.com       , Portland   , OR   , 2022-03-14 ,         1
+          3, Carla     , Kim      ,                           , San Diego  , CA   , 2021-09-18 ,         0
+          4, David     , Patel    , david.patel@email.com     , Seattle    , WA   , 2023-02-25 ,         1
+          5, Emma      , Brown    , emma.brown@email.com      , Los Angeles, CA   , 2023-06-07 ,         1
+          6, Frank     , Zhang    , frank.zhang@email.com     , Portland   , OR   , 2022-08-21 ,         1
+          7, Grace     , Gomez    , grace.gomez@email.com     , San Jose   , CA   , 2021-11-11 ,         1
+          8, Henry     , Miller   , henry.miller@email.com    , San Diego  , CA   , 2023-01-08 ,         1
+          9, Irene     , O'Neil   , irene.oneil@email.com     , Los Angeles, CA   , 2022-05-15 ,         0
+         10, Jake      , Singh    , jake.singh@email.com      , Seattle    , WA   , 2023-04-17 ,         1
+         11, Kim       , Johnson  ,                           , San Diego  , CA   , 2022-06-13 ,         1
+         12, Liam      , Chen     , liam.chen@email.com       , Portland   , OR   , 2022-12-19 ,         1
+         13, Mia       , Garcia   , mia.garcia@email.com      , Seattle    , WA   , 2023-07-03 ,         1
+         14, Nina      , Keller   , nina.keller@email.com     , Los Angeles, CA   , 2023-03-22 ,         0
+         15, Omar      , Ali      , omar.ali@email.com        , San Jose   , CA   , 2022-09-14 ,         1
+         16, Paul      , Kim      , paul.kim@email.com        , Seattle    , WA   , 2022-10-05 ,         1
+         17, Quinn     , Wu       , quinn.wu@email.com        , Portland   , OR   , 2023-06-29 ,         1
+         18, Rachel    , Fernandez, rachel.fernandez@email.com, San Diego  , CA   , 2022-11-09 ,         1
+         19, Sara      , Evans    ,                           , Los Angeles, CA   , 2021-10-02 ,         0
+         20, Tom       , Martinez , tom.martinez@email.com    , Seattle    , WA   , 2023-05-27 ,         1
